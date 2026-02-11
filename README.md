@@ -1,6 +1,13 @@
 # 💫 About Me:
-🔭 I’m currently working on LLM, ML, and AI<br>👯 I’m looking to collaborate on Anything about AI<br>🤝 I’m looking for help with LLM<br>🌱 I’m currently learning LLM<br>💬 Ask me about AI and LM
+👋 Hi, I’m a Data Scientist in training who likes building things that actually run in the real world 🚀
+Most of my work is around LLMs, predictive maintenance, and industrial ML systems — from model training to monitoring and retraining 🤖⚙️
 
+I enjoy working on end-to-end pipelines:
+data → model → dashboard → decision 📊➡️🧠➡️✅
+
+Lately, I’ve been focused on ML observability (drift detection, model diagnostics) 🔍 and making ML systems easier to understand and trust in production 🛠️✨
+
+💬 If you want to discuss anything related to this field, feel free to reach out!
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/gunn.wangwichit.7/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gunn-wangwichit-a23373231/) 
